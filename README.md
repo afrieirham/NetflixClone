@@ -1,6 +1,6 @@
 #  Netflix Clone (iOS Dev)
 
-I want to start learning native iOS development with XCode, thus I'm creating this project based on this (tutorial)[https://youtu.be/KCgYDCKqato].
+I want to start learning native iOS development with XCode, thus I'm creating this project based on this [tutorial](https://youtu.be/KCgYDCKqato).
 
 I will use this README file as a notes/journal throughout my iOS dev journey. I'll write about things that I've learned, my impression of native iOS dev vs hybrid (as I'm coming from React/React Native).
 
