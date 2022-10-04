@@ -30,6 +30,7 @@
 		4D3A80CC28EC80D00047914B /* UpcomingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpcomingViewController.swift; sourceTree = "<group>"; };
 		4D3A80CE28EC80F10047914B /* DownloadsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadsViewController.swift; sourceTree = "<group>"; };
 		4D3A80D028EC810C0047914B /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
+		4D3A80D228EC872A0047914B /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -46,6 +47,7 @@
 		4D3A80A928EC7D920047914B = {
 			isa = PBXGroup;
 			children = (
+				4D3A80D228EC872A0047914B /* README.md */,
 				4D3A80B428EC7D920047914B /* NetflixClone */,
 				4D3A80B328EC7D920047914B /* Products */,
 			);
